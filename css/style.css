@@ -5,4 +5,7 @@ p {
 
 * {
     background-color: #78b3e0;
+    margin: auto;
+    width: 50%;
+    text-align: center;
 }
