@@ -9,3 +9,11 @@ p {
     width: 50%;
     text-align: center;
 }
+
+.purple {
+    background-color: #b19cba;
+}
+
+.blue {
+    background-color: #9cbab2;
+}
