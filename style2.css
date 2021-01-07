@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    width: 50%;;
+    line-height: 1.6;
+}
+
+#photoheader {
+    padding-top: 10%;
+    text-align: center;
+}
+
+#about {
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+    padding: 1%;
+}
+
+#resume {
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 16px 32px;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: gray;
+    color: black;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
